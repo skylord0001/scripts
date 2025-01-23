@@ -16,7 +16,7 @@ A simple Python script to streamline the process of adding and committing files 
 ## Installation (Windows)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/devfemibadmus/git_commit
+   git clone https://github.com/skylord0001/git_commit
    ```
 2. Navigate to the script directory:
 3. Copy the git_commit.py to dir ```C:\Scripts```
